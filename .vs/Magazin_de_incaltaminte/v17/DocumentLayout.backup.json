@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valentin\\Documents\\GitHub\\Magazin_de_incaltaminte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{860488F3-62B1-4DFD-80C9-16612A75222A}|Magazin_de_incaltaminte\\Magazin_de_incaltaminte.csproj|c:\\users\\valentin\\documents\\github\\magazin_de_incaltaminte\\magazin_de_incaltaminte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860488F3-62B1-4DFD-80C9-16612A75222A}|Magazin_de_incaltaminte\\Magazin_de_incaltaminte.csproj|solutionrelative:magazin_de_incaltaminte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860488F3-62B1-4DFD-80C9-16612A75222A}|Magazin_de_incaltaminte\\Magazin_de_incaltaminte.csproj|C:\\Users\\Valentin\\Documents\\GitHub\\Magazin_de_incaltaminte\\magazin_de_incaltaminte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860488F3-62B1-4DFD-80C9-16612A75222A}|Magazin_de_incaltaminte\\Magazin_de_incaltaminte.csproj|solutionrelative:magazin_de_incaltaminte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860488F3-62B1-4DFD-80C9-16612A75222A}|Magazin_de_incaltaminte\\Magazin_de_incaltaminte.csproj|C:\\Users\\Valentin\\Documents\\GitHub\\Magazin_de_incaltaminte\\magazin_de_incaltaminte\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860488F3-62B1-4DFD-80C9-16612A75222A}|Magazin_de_incaltaminte\\Magazin_de_incaltaminte.csproj|solutionrelative:magazin_de_incaltaminte\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860488F3-62B1-4DFD-80C9-16612A75222A}|Magazin_de_incaltaminte\\Magazin_de_incaltaminte.csproj|C:\\Users\\Valentin\\Documents\\GitHub\\Magazin_de_incaltaminte\\magazin_de_incaltaminte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860488F3-62B1-4DFD-80C9-16612A75222A}|Magazin_de_incaltaminte\\Magazin_de_incaltaminte.csproj|solutionrelative:magazin_de_incaltaminte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Documents\\GitHub\\Magazin_de_incaltaminte\\Magazin_de_incaltaminte\\Program.cs",
+              "RelativeDocumentMoniker": "Magazin_de_incaltaminte\\Program.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Documents\\GitHub\\Magazin_de_incaltaminte\\Magazin_de_incaltaminte\\Program.cs",
+              "RelativeToolTip": "Magazin_de_incaltaminte\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T23:40:41.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Documents\\GitHub\\Magazin_de_incaltaminte\\Magazin_de_incaltaminte\\Form1.cs",
+              "RelativeDocumentMoniker": "Magazin_de_incaltaminte\\Form1.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Documents\\GitHub\\Magazin_de_incaltaminte\\Magazin_de_incaltaminte\\Form1.cs*",
+              "RelativeToolTip": "Magazin_de_incaltaminte\\Form1.cs*",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAgwOQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T23:41:10.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Documents\\GitHub\\Magazin_de_incaltaminte\\Magazin_de_incaltaminte\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Magazin_de_incaltaminte\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Documents\\GitHub\\Magazin_de_incaltaminte\\Magazin_de_incaltaminte\\Form1.Designer.cs",
+              "RelativeToolTip": "Magazin_de_incaltaminte\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T23:40:37.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Documents\\GitHub\\Magazin_de_incaltaminte\\Magazin_de_incaltaminte\\Form1.cs",
+              "RelativeDocumentMoniker": "Magazin_de_incaltaminte\\Form1.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Documents\\GitHub\\Magazin_de_incaltaminte\\Magazin_de_incaltaminte\\Form1.cs [Design]*",
+              "RelativeToolTip": "Magazin_de_incaltaminte\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T23:38:37.414Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
