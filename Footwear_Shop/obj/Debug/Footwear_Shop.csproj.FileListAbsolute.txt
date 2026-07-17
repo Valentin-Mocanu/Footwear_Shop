@@ -1,0 +1,11 @@
+C:\Users\Valentin\source\repos\Footwear_Shop\Footwear_Shop\bin\Debug\Footwear_Shop.exe.config
+C:\Users\Valentin\source\repos\Footwear_Shop\Footwear_Shop\bin\Debug\Footwear_Shop.exe
+C:\Users\Valentin\source\repos\Footwear_Shop\Footwear_Shop\bin\Debug\Footwear_Shop.pdb
+C:\Users\Valentin\source\repos\Footwear_Shop\Footwear_Shop\obj\Debug\Footwear_Shop.csproj.AssemblyReference.cache
+C:\Users\Valentin\source\repos\Footwear_Shop\Footwear_Shop\obj\Debug\Footwear_Shop.Properties.Resources.resources
+C:\Users\Valentin\source\repos\Footwear_Shop\Footwear_Shop\obj\Debug\Footwear_Shop.csproj.GenerateResource.cache
+C:\Users\Valentin\source\repos\Footwear_Shop\Footwear_Shop\obj\Debug\Footwear_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\source\repos\Footwear_Shop\Footwear_Shop\obj\Debug\Footwear_Shop.exe
+C:\Users\Valentin\source\repos\Footwear_Shop\Footwear_Shop\obj\Debug\Footwear_Shop.pdb
+C:\Users\Valentin\source\repos\Footwear_Shop\Footwear_Shop\obj\Debug\Footwear_Shop.exe.config
+C:\Users\Valentin\source\repos\Footwear_Shop\Footwear_Shop\obj\Debug\Footwear_Shop.Form1.resources

@@ -1,0 +1,10 @@
+Air Max;Nike;600;42;10
+Superstar;Adidas;450;41;8
+Classic;Puma;350;43;14
+Gel-Kayano;Asics;550;44;12
+Court Vision;Nike;400;42;7
+Stan Smith;Adidas;420;40;9
+Future Rider;Puma;380;41;11
+Revolution 6;Nike;300;39;14
+Gazelle;Adidas;370;42;5
+Suede Classic;Puma;390;43;8
