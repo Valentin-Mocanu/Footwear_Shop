@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Valentin\\source\\repos\\Footwear_Shop\\",
+  "WorkspaceRootPath": "C:\\Users\\Valentin\\Documents\\GitHub\\Footwear_Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|c:\\users\\valentin\\source\\repos\\footwear_shop\\footwear_shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|solutionrelative:footwear_shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|c:\\users\\valentin\\source\\repos\\footwear_shop\\footwear_shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|C:\\Users\\Valentin\\Documents\\GitHub\\Footwear_Shop\\footwear_shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|solutionrelative:footwear_shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|c:\\users\\valentin\\source\\repos\\footwear_shop\\footwear_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|c:\\users\\valentin\\documents\\github\\footwear_shop\\footwear_shop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|solutionrelative:footwear_shop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|C:\\Users\\Valentin\\Documents\\GitHub\\Footwear_Shop\\footwear_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|solutionrelative:footwear_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|c:\\users\\valentin\\source\\repos\\footwear_shop\\footwear_shop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|solutionrelative:footwear_shop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|C:\\Users\\Valentin\\Documents\\GitHub\\Footwear_Shop\\footwear_shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E5D63-B19B-4122-A0FF-9E10D434CAB5}|Footwear_Shop\\Footwear_Shop.csproj|solutionrelative:footwear_shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,24 +34,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Valentin\\source\\repos\\Footwear_Shop\\Footwear_Shop\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Footwear_Shop\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Valentin\\source\\repos\\Footwear_Shop\\Footwear_Shop\\Form1.Designer.cs",
-              "RelativeToolTip": "Footwear_Shop\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-17T05:52:56.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Valentin\\source\\repos\\Footwear_Shop\\Footwear_Shop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Documents\\GitHub\\Footwear_Shop\\Footwear_Shop\\Program.cs",
               "RelativeDocumentMoniker": "Footwear_Shop\\Program.cs",
-              "ToolTip": "C:\\Users\\Valentin\\source\\repos\\Footwear_Shop\\Footwear_Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Documents\\GitHub\\Footwear_Shop\\Footwear_Shop\\Program.cs",
               "RelativeToolTip": "Footwear_Shop\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Valentin\\source\\repos\\Footwear_Shop\\Footwear_Shop\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Documents\\GitHub\\Footwear_Shop\\Footwear_Shop\\Form1.cs",
               "RelativeDocumentMoniker": "Footwear_Shop\\Form1.cs",
-              "ToolTip": "C:\\Users\\Valentin\\source\\repos\\Footwear_Shop\\Footwear_Shop\\Form1.cs",
-              "RelativeToolTip": "Footwear_Shop\\Form1.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAswI0AAABhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Valentin\\Documents\\GitHub\\Footwear_Shop\\Footwear_Shop\\Form1.cs*",
+              "RelativeToolTip": "Footwear_Shop\\Form1.cs*",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAUwA0BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-17T05:51:56.762Z",
               "EditorCaption": ""
@@ -74,11 +61,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Documents\\GitHub\\Footwear_Shop\\Footwear_Shop\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Footwear_Shop\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Documents\\GitHub\\Footwear_Shop\\Footwear_Shop\\Form1.Designer.cs*",
+              "RelativeToolTip": "Footwear_Shop\\Form1.Designer.cs*",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T17:48:48.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Valentin\\source\\repos\\Footwear_Shop\\Footwear_Shop\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Documents\\GitHub\\Footwear_Shop\\Footwear_Shop\\Form1.cs",
               "RelativeDocumentMoniker": "Footwear_Shop\\Form1.cs",
-              "ToolTip": "C:\\Users\\Valentin\\source\\repos\\Footwear_Shop\\Footwear_Shop\\Form1.cs [Design]",
-              "RelativeToolTip": "Footwear_Shop\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Valentin\\Documents\\GitHub\\Footwear_Shop\\Footwear_Shop\\Form1.cs [Design]*",
+              "RelativeToolTip": "Footwear_Shop\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-17T05:51:29.578Z",
               "EditorCaption": " [Design]"
